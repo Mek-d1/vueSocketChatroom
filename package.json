@@ -58,7 +58,7 @@
     "eslint-plugin-html": "^2.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eventsource-polyfill": "^0.9.6",
-    "extract-text-webpack-plugin": "^2.0.0",
+    "extract-text-webpack-plugin": "github:webpack-contrib/mini-css-extract-plugin",
     "file-loader": "^0.10.0",
     "friendly-errors-webpack-plugin": "^1.1.3",
     "function-bind": "^1.1.0",
